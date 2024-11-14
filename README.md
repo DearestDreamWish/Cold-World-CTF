@@ -18,4 +18,4 @@ Every CTF "question" or "statement" can have a codename.
 Codename for this CTF !flag={Cold-World-CTF}
 
 
-I'm currently looking a CTF team to join.
+I'm currently looking for a CTF team to join.
