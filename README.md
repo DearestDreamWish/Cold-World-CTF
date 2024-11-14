@@ -13,3 +13,6 @@ Where the proof for an answer for a "question" or if a "statement" is right or n
 What would you like to call it?
 Anyone can participate and anyone can invite.
 Every CTF "question" or "statement" can have a codename.
+
+
+Codename for this CTF !flag={Cold-World-CTF}
